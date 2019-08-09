@@ -1,0 +1,7 @@
+
+O
+squid:S106-"9Replace this use of System.out or System.err by a logger.(±©Ýß
+P"squid:SwitchLastCaseIsDefaultCheck3""Add a default case to this switch.(°€àâ
+]squid:S2259›"EA "NullPointerException" could be thrown; "ejemplo" is nullable here.(ž°ùŽ
+P
+squid:S106š"9Replace this use of System.out or System.err by a logger.(÷—ÀÕ
